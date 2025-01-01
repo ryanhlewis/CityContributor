@@ -1,0 +1,19 @@
+[
+    {
+      "id": "bus-schedule-2025-01",
+      "title": "Bus Schedule January 2025",
+      "description": "Complete bus schedule data for January 2025",
+      "hash": "7b858abf... (example SHA-256)",
+      "downloadCount": 0,
+      "openSourceDownloads": 0
+    },
+    {
+      "id": "subway-timetable-2025-01",
+      "title": "Subway Timetable January 2025",
+      "description": "Subway data for January 2025",
+      "hash": "e3b0c442... (example SHA-256)",
+      "downloadCount": 2,
+      "openSourceDownloads": 1
+    }
+  ]
+  

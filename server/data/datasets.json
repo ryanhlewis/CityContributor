@@ -1,0 +1,11 @@
+[
+  {
+    "id": "local-train-data-(oct.-17,-2022)-1735768265",
+    "title": "Local Train Data (Oct. 17, 2022)",
+    "description": "A dataset containing train arrival and departure times for October 17, 2022, in the X District.",
+    "hash": "3d4aca7b9d796ac1ee76dbaad0a002350b0dbc27fb8c0f418e78dcd816a024f2",
+    "verifiedContributorHosts": 2,
+    "originalFilename": "train_times.csv",
+    "filenameOnDisk": "local-train-data-(oct.-17,-2022)-1735768265.csv"
+  }
+]
